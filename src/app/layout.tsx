@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "School Management Dashboard",
   description: "Next.js School Management System",
+  authors: [{ name: "maddeveloper" }],
 };
 
 export default function RootLayout({
